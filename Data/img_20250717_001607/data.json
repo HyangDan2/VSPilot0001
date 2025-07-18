@@ -1,0 +1,15 @@
+{
+  "timestamp": "20250717_001607",
+  "prompts": {
+    "positive": "Hello World!",
+    "negative": "Bad World!!"
+  },
+  "metadata": {
+    "steps": 20,
+    "cfg": 7.0,
+    "checkpoint": "JANKUV",
+    "width": 512,
+    "height": 512
+  },
+  "image_file": "image.png"
+}
